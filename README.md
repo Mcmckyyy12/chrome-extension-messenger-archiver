@@ -58,7 +58,7 @@ Keep the popup open while it runs. Closing the popup stops the live display, but
 Reach out via any of the following:
 
 - **WhatsApp / Viber:** [09308210187](https://wa.me/639308210187)
-- **Gmail:** [besasmcmc@gmail.com](mailto:besasmcmc@gmail.com)
+- **Gmail:** [besasmcmc@gmail.com](mailto:hanzyasiero@gmail.com)
 
 ---
 
@@ -74,4 +74,4 @@ Already a customer and want to show extra support? Send a contribution via GCash
 
 ---
 
-*Made with ❤️ for the Filipino developer community. 🇵🇭*
+*Built with ❤️ for everyone on Earth. ✨*
