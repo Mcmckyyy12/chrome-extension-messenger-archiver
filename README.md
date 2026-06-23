@@ -72,6 +72,8 @@ Already a customer and want to show extra support? Send a contribution via GCash
 2. Enter `09308210187`
 3. Enter any amount and confirm
 
+📹 Click the link below to view the proof video.
+https://drive.google.com/file/d/1QbGJqUCRxw2rOh7DrdEaF9jA6gWy2JZ-/view?usp=sharing
 ---
 
 *Built with ❤️ for everyone on Earth. ✨*
